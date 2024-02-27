@@ -1,0 +1,16 @@
+{
+  "name": "basic_weather",
+  "version": "1.0.0",
+  "description": "basic weather website using API as practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
